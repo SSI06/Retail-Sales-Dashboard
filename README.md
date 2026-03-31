@@ -84,7 +84,7 @@ pip install -r requirements.txt
 jupyter notebook
 
 # 4. Launch the dashboard
-streamlit run sales_dashboard.py
+streamlit run dashboard/sales_dashboard.py
 ```
 
 Opens at `http://localhost:8501`
