@@ -6,7 +6,7 @@ import plotly.express as px
 st.set_page_config(page_title="Sales Dashboard", layout="wide")
 
 # ---------------- TITLE ----------------
-st.title("📊 Retail Sales Intelligence Dashboard")
+st.title("📊 Retail-Sales-Intelligence-Revenue-Optimization-Dashboard")
 st.markdown("Interactive dashboard with dynamic business insights")
 
 # ---------------- LOAD DATA ----------------
