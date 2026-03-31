@@ -1,6 +1,6 @@
-# Retail-Sales-Intelligence
+# 📊 Retail Sales Dashboard
 
-A Python-based data science project where I built a complete sales analytics pipeline — starting from scratch with synthetic data generation, all the way to a live interactive dashboard.
+An end-to-end sales analytics project where I built an interactive dashboard to analyze business performance and generate actionable insights from 50K+ transactions.
 
 ![Dashboard](images/img-1.png)
 
@@ -108,6 +108,14 @@ Opens at `http://localhost:8501`
 - Deploy on Streamlit Cloud so it runs without local setup
 
 ---
+##  What Problem This Solves
+
+Businesses often struggle to understand:
+- Which products drive revenue  
+- Whether discounts actually improve profit  
+- How sales trends change over time  
+
+This dashboard helps answer these questions with clear visual insights.
 
 ## About Me
 
